@@ -2,7 +2,6 @@
 
 #### I'm an iOS Software Engineer based out of New York
 
-- 💻 I’m currently working on my portfolio website...to be published soon
 - 📱 I'm also working on new app ideas and updates for my current production apps
 - ⚡️ Fun fact: I can solve a Rubik's Cube in under a minute...most of the time
 
